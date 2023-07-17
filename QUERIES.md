@@ -4,7 +4,7 @@
 
 - query for database 
 
-```CREATE DATABASE shoppy;```
+```CREATE DATABASE trendVault;```
 
 #### Now click on the databse and in the sql tabe run these queries to create the tablespoon
 
